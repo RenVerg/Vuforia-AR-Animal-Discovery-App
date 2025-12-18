@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "f26d2042348829e7a1d7f0e9d3e09e87",
+        "mtime": 1731493840000,
+        "size": 139334874,
+        "localPath": "C:\\Users\\Trixia\\OneDrive\\Desktop\\My project (1)\\Packages\\com.ptc.vuforia.engine-10.28.4.tgz"
+      }
+    }
+  }
+}
